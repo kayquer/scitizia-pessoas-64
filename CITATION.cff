@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Se usar estes modelos, cite o repositório assim (opcional: os personagens estão em domínio público)."
+title: "Scitizia: pessoas - 55 personagens low poly com esqueleto e animações em glTF/GLB"
+type: dataset
+authors:
+  - alias: kayquer
+repository-code: "https://github.com/kayquer/scitizia-pessoas-64"
+url: "https://github.com/kayquer/scitizia-pessoas-64"
+license: CC0-1.0
+abstract: "Coleção de 55 personagens em baixo polígono com visual retrô de 32 bits (elenco de um jogo de rali e multidão), em glTF 2.0 binário (.glb), cada um com uma malha contínua com pele, o mesmo esqueleto humanoide de 19 ossos, textura de 256 px e 10 animações em loop, com prévias e catálogo JSON."
+keywords:
+  - low poly
+  - characters
+  - rigged
+  - animated
+  - npc
+  - rally
+  - 3d models
+  - gltf
+  - glb
+  - game assets
+  - retro
+  - 32-bit
