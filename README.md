@@ -2,6 +2,8 @@
 
 ![Mosaico com os 55 personagens low poly: mentora de jaqueta laranja, piloto de macacão vermelho, locutora de fone no pescoço, chefes de equipe, sitiante de chapéu de palha, copilotos, pilotos e pessoas do público, parados, acenando, apontando e comemorando](docs/pessoas-low-poly-32-bits-mosaico.jpg)
 
+https://github.com/user-attachments/assets/58f36ce6-06f5-473f-8c92-55f8929fcd20
+
 ▶️ **[Assista ao vídeo no YouTube](https://www.youtube.com/watch?v=Bqv8QLAiDzU)** · **[Baixe no itch.io](https://kkyqr.itch.io/scitizia-people)** (grátis, doação opcional)
 
 **Scitizia: pessoas** é uma coleção gratuita de 55 personagens em baixo polígono (low poly), com o visual retrô dos jogos de 32 bits, prontos para jogos em tempo real: 31 personagens com nome (história, copilotos e pilotos) e 24 variações de multidão. Cada personagem é um arquivo glTF 2.0 binário (`.glb`) de 231 a 368 KB com **uma malha contínua com pele** de 1.058 a 1.750 triângulos, o **mesmo esqueleto humanoide de 19 ossos** em todos (pose A no repouso, até 4 ossos por vértice), uma textura de 256×512 px pintada por código, com rosto, roupa e cabelo em pixels, luz e sombra assadas e filtro "nearest", e **10 animações em loop** no esqueleto: parado, andar, correr, empurrar, comemorar, acenar, pular, sentar, torcer, apontar. Os personagens foram feitos para o jogo **Scitizia Rally Championship**; nomes, rostos e roupas são inventados, sem marca, logotipo ou pessoa real.
