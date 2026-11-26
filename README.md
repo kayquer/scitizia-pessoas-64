@@ -1,5 +1,7 @@
 # Scitizia: 55 personagens low poly com esqueleto e animações, em glTF/GLB com visual retrô de 32 bits
 
+🇧🇷 Português · **🇬🇧 [Read in English](README.en.md)** 
+
 ![Mosaico com os 55 personagens low poly: mentora de jaqueta laranja, piloto de macacão vermelho, locutora de fone no pescoço, chefes de equipe, sitiante de chapéu de palha, copilotos, pilotos e pessoas do público, parados, acenando, apontando e comemorando](docs/pessoas-low-poly-32-bits-mosaico.jpg)
 
 https://github.com/user-attachments/assets/58f36ce6-06f5-473f-8c92-55f8929fcd20
